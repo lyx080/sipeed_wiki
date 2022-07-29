@@ -4,9 +4,7 @@ keywords: maixpy, k210, AIOT, 边缘计算, 人工智能, 深度学习
 desc: maixpy doc: 如何正确 阅读 本文
 ---
 
-
 **注意： 目前唯一文档官网： [wiki.sipeed.com/maixpy3](https://wiki.sipeed.com/maixpy)**
-
 
 ## 首先请仔细阅读一遍左边侧边栏的目录结构看一看文档有那些内容
 
@@ -29,7 +27,6 @@ desc: maixpy doc: 如何正确 阅读 本文
 
 <code><strong><font size=4>简介</font></strong></code> 和 <code><strong><font size=4>入门指南</font></strong></code>，一定要完整看完， 遇到问题也一定要先看 <code><strong><font size=4>常见问题</font></strong></code>
 
-
 ## 开始学习
 
 * 刚接触，可以根据左边侧边栏的目录从上到下一页一页仔细看，跟着做即可， 入门一定不要跳过！！！
@@ -44,7 +41,6 @@ desc: maixpy doc: 如何正确 阅读 本文
 ## MaixPy 常见问题
 
 * 常见问题请见[常见问题](./others/maixpy_faq.md)
-
 
 ## 其它教程
 
